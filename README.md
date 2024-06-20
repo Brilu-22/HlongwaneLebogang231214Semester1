@@ -95,6 +95,10 @@ This NBA Statistics Website is a full-stack web application that provides detail
    - Explore conference ranks for teams in the 2021 Eastern Conference using bar charts.
    - Analyze historical performance data and visual comparisons of players and teams.
 
+## PDF Documentation
+
+-[Lebogang Hlongwane 231214 DV200 PDF](Lebogang%20Hlongwane%20231214%20DV200%20PDF%20.pdf).
+
 ## Credits
 
 This project was developed by Lebogang Hlongwane as an assignment for Open Window DV200.
